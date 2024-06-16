@@ -10,7 +10,10 @@
 
 ## Introduction
 
-I'm Pablo, a Web Developer passionate about front-end and ai. Explore my repositories, I believe in clean code, continuous learning, and fostering collaboration. Let's connect and innovate together!
+I'm Pablo, a Web Developer passionate about front-end and currently learning swift. 
+Explore my repositories to know how I work.
+I believe in clean code, continuous learning, and fostering collaboration. 
+Let's connect and innovate together!
 
 ## Skills
 
