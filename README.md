@@ -1,6 +1,6 @@
 # Pablo Vacas García
 
-*   🔭 I’m currently looking to work as front-end developer
+*   🔭 I’m currently working as front-end developer at El Jornalero
 *   🌱 I’m currently learning Swift
 *   📫 Contact links above
 
