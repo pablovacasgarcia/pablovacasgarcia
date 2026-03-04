@@ -24,7 +24,7 @@ Let's connect and innovate together!
 ## Statistics
 
 <div align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pablovacasgarcia&show_icons=true&locale=en&rank_icon=github&theme=transparent" alt="pablovacasgarcia" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pablovacasgarcia&theme=transparent" alt="pablovacasgarcia" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablovacasgarcia&show_icons=true&locale=en&layout=pie" alt="pablovacasgarcia" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pablovacasgarcia&theme=transparent" alt="pablovacasgarcia" /></p>
 </div>
 
 ## Contact
